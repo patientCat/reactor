@@ -2,4 +2,4 @@
 
 #include <functional>
 
-typedef std::function<void(int fd, int events)> EventCallback;
+typedef std::function<void(int )> EventCallback;
